@@ -6,6 +6,11 @@
   "engines": {
     "node": ">=10"
   },
+  "os": [
+    "freebsd",
+    "linux",
+    "openbsd"
+  ],
   "scripts": {
     "test": "echo \"Warning: no test specified\" && exit 0"
   },
