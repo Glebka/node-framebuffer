@@ -1,6 +1,6 @@
 {
   "name": "framebuffer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "engines": {
@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/denghongcai/node-framebuffer",
   "dependencies": {
-    "ioctl-napi": "^0.3.0",
-    "mmap-io": "^1.1.7",
-    "ref-array-napi": "^1.2.2",
-    "ref-napi": "^3.0.3",
-    "ref-struct-napi": "^1.1.1"
+    "ioctl-napi": "Glebka/ioctl-napi",
+    "mmap-io": "Glebka/mmap-io",
+    "ref-array-napi": "Glebka/ref-array-napi",
+    "ref-napi": "Glebka/ref-napi",
+    "ref-struct-napi": "Glebka/ref-struct-napi"
   }
 }
