@@ -26,7 +26,7 @@
   "homepage": "https://github.com/denghongcai/node-framebuffer",
   "dependencies": {
     "ioctl-napi": "Glebka/ioctl-napi",
-    "mmap-io": "Glebka/mmap-io",
+    "mmap-io-napi": "Glebka/mmap-io-napi",
     "ref-array-napi": "Glebka/ref-array-napi",
     "ref-napi": "Glebka/ref-napi",
     "ref-struct-napi": "Glebka/ref-struct-napi"
